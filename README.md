@@ -4,7 +4,7 @@ Simple project that uses a Non-Comparative Sorting Algorithm
 
 ## Author
 
-* [@ssengerb](https://01.alem.school/git/ssengerb)
+* [@smslash](https://github.com/smslash)
 
 ## Run
 
